@@ -1,0 +1,133 @@
+CALCULOS EN EXCEL
+
+-QUE ES UNA FORMULA?
+-FORMAS DE INTRODUCCIR FORMULAS EN EXCEL
+-ACTUALIZACION Y CORRECCION DE FORMULAS
+-BOTON DE AUTORELLENO
+
+-----------------------------------------------
+-TECNICAS DE COPIADO Y PEGAR FORMULAS
+-TRANSPONER
+-REFERENCIAS (RELATIVAS, ABSOLUTAS Y MIXTAS)
+
+----------------------------------------------
+-REFERENCIAS
+-DIFERENCIAS ENTRE COPIAR Y CORTAR FORMULAS
+-PRECENDETES DE FORMULAS
+-REFERENCIAS ABSOLUTAS
+
+-----------------------------------------------
+-EVALUACION DE FORMULAS
+-AUDITORIA DE FORMULAS
+
+FUNCIONES 1.
+-FUNCIONES BASICAS Y SINTAXIS
+
+FUNCIONES 2.
+-ASISTENTE DE FUNCIONES Y MINI ASISTENTE DE FUNCIONES
+480
+
+FUNCIONES 3.
+-FUNCION CONDICIONAL "SI"
+
+FUNCIONES 4.
+-ANIDAMIENTO BASICO DE FUNCIONES.
+-FUNCION AND, OR
+
+OTRAS FUNCIONES Y DOCUMENTACION.
+---------------------------------------------------------------------------------
+ANIDAMIENTO DE FUNCIONES II
+-ANIDAMIENTO DE LAS FUNCIONES OR|AND
+-ANIDAMIENTO FUNCION IF|SI
+
+-BORRAR CONTENIDO || GOMA ARCH 5.1
+-ERROR HANDLING
+-FUNCION AGREGAR
+-FUNCION SI.ERROR
+
+-BUSCARV
+
+----------------------------------------------------------------------------------
+-FUNCION SI.CONJUNTO
+-FUNCION MAX.SI.CONJUNTO
+-FUNCION MIN.SI.CONJUNTO
+
+-CAMBIAR
+
+-UNIRCADENAS Y CONCAT
+
+-----------------------------------------------------------------------------------
+BASE DE DATOS
+FUNCIONES BBDD||LISTADOS
+-BDSUMA
+-BDPROMEDIO
+-BDMAX
+-BDMIN
+-CRITERIOS "Y", "O"
+-CARACTERES COMODIN *?
+-NOMBRAR RANGOS
+-ETC
+
+-----------------------------------------------------------------------------------
+TRABAJO CON HOJAS EXTENSAS
+-INMOVILIZAR
+-VISTAS PERSONALIZADAS
+
+TRABAJO CON VARIAS HOJAS DE UN LIBRO
+-WINDOWS + ARROWS
+-VISUALIZACION
+-CONSOLIDACION DE DATOS
+
+------------------------------------------------------------------------------------
+TRABAJAR CON MULTIPLES LIBROS
+-FORMULAS CON CELDAS DE VARIOS LIBROS DIFERENTES
+-VINCULOS A CELDAS DE LIBROS EXTERNOS
+-ACTUALIZACION Y MODIFICACION DE VINCULOS 
+
+-------------------------------------------------------------------------------------
+-SUBTOTALES
+-FIND AND SELECT
+
+-------------------------------------------------------------------------------------
+#AUTOFILTROS
+-AND|OR EN AUTOFILTROS
+-FILTRO DE TEXTO
+-CARACTERES ESPECIALES
+
+/////////////////////////////
+SORT FILTERS
+-FILTROS POR PROMEDIO ARROWS
+-SORT AND TOP 10
+-FILTRO POR GRADIENTES
+
+-------------------------------------------------------------------------------------
+-DATOS DUPLICADOS
+-BUSCAR
+-ELIMINAR =RAND()
+
+-------------------------------------------------------------------------------------
+VALIDACION DE DATOS
+-BLOQUEO DE DATOS
+
+PROTECCION
+-CELDA
+-RANGO
+-HOJA
+-LIBRO
+
+------------------------------------------------------------------------------------
+
+TEMAS AVANZADOS
+-CODIFICACION EN VISUAL BASIC Y MACROS
+-OTROS
+
+
+
+
+
+
+
+
+
+
+
